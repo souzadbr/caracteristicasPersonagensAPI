@@ -1,4 +1,4 @@
-![alte text](C:\Users\Debora\Desktop\arquivos\WORKSPICE\projeto-estrelas\projeto-API\img\img1.png)
+![](C:\Users\Debora\Desktop\arquivos\WORKSPICE\projeto-estrelas\projeto-API\img\img1.png)
 
 <H1> PROJETO API RICK AND MORTY<H1>
 
