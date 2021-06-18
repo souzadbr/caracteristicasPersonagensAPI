@@ -1,0 +1,38 @@
+body {
+  background: url("img/fundo.png.crdownload");
+}
+
+#imagen1 {
+  max-width: 200px;
+  padding: 10px 30px 10px 80px;
+}
+
+.titulo {
+  max-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  border-radius: 20%;
+  padding: 10px 10px 50px 30px;
+  border: 2px solid black;
+  background: #20b2aa;
+}
+
+.form-group {
+  max-width: 310px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 10px 10px 10px 10px;
+  border: 4px solid black;
+  background: #20b2aa;
+}
+
+label {
+  padding: 10px 10px 10px 10px;
+}
+p {
+  padding: 10px 10px 10px 30px;
+}
